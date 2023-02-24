@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Nikhil Vegulla",
+      "email": "nikhil@gmil.com",
+      "mobilenumber": 9183739221,
+      "landline": "",
+      "website": "",
+      "address": "",
+      "id": 7
+    },
+    {
+      "name": "Vamsi V",
+      "email": "vamsi.v@gmlsa.cnos",
+      "mobilenumber": 9127823741,
+      "landline": "",
+      "website": "",
+      "address": "",
+      "id": 8
+    },
+    {
+      "name": "Koti",
+      "email": "koti@gmail.cmo",
+      "mobilenumber": 9102928392,
+      "landline": "",
+      "website": "",
+      "address": "",
+      "id": 10
+    },
+    {
+      "name": "Ramesh",
+      "email": "ram@alks.com",
+      "mobilenumber": 9912874273,
+      "landline": "",
+      "website": "",
+      "address": "",
+      "id": 11
+    }
+  ]
+}
